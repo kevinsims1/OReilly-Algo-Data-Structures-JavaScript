@@ -12,14 +12,14 @@
 
 // function factorial(num){
 //     var product = 1;
-//     for(var i = 0; i >= 1; --i) {
+//     for(var i = number; i >= 1; --i) {
 //         product *= i;
 //     }
 //     return product
 // }
 // print(factorial(4)); 24
 
-//A subprocedure or void function
+//A sub-procedure or void function
 
 //Example:
 
